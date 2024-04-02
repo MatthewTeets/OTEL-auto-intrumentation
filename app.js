@@ -1,3 +1,7 @@
+/*/                                                                /+/ 
+    Simple Express.js web server set to handle basic HTTP requests 
+/+/                                                                /*/
+
 const PORT = parseInt(process.env.PORT || "8080")
 const express = require('express')
 const app = express()

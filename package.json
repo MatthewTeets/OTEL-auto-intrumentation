@@ -1,5 +1,5 @@
 {
-  "name": "otel-basic-instrumentation",
+  "name": "otel-auto-instrumentation",
   "version": "1.0.0",
   "description": "OpenTelemetry test project.",
   "main": "app.js",
