@@ -21,4 +21,3 @@ app.get('/2', (req, res) => {
 app.listen(PORT, () => {
     console.log(`Listening for response on http://localhost:${PORT}`)
 })
-
