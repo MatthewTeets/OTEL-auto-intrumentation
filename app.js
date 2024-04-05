@@ -6,7 +6,7 @@ const PORT = parseInt(process.env.PORT || "8080")
 const express = require('express')
 const app = express()
 
-app.get('/', (req, res) => {
+app.get('/home', (req, res) => {
     res.send('Home Page')
 })
 
